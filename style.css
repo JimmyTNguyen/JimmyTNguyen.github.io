@@ -1,0 +1,48 @@
+body {
+    background-image: url("hola.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-color:#3bf7ac;
+    font-family: 'Roboto Mono', monospace;
+}
+h1, h3 {
+    font-family: 'Josefin Sans', sans-serif;
+}
+#nav {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+#nav li {
+    float: left;
+}
+#nav li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: black;
+}
+#nav li a:hover {
+    background-color: cyan;
+}
+#content {
+   border: solid red 2px;
+   width: 68%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 16px;
+   text-align: center;
+   padding-bottom: 16px;
+   background-color: rgba(255,255,255,0.30);
+}
+table {
+    margin: auto;
+}
+#content ul, #content ol{
+    width: 25%;
+    margin:auto;
+}
