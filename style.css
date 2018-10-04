@@ -1,9 +1,9 @@
 body {
     background-image: url("hola.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-attachment: fixed;
-    background-color:#3bf7ac;
+    background-color:#407fe5;
     font-family: 'Roboto Mono', monospace;
 }
 h1, h3 {
