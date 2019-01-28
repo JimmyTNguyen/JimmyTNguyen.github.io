@@ -58,3 +58,7 @@ table {
 }
 #nav2 li a:hover {
     background-color: cyan;
+}
+#big {
+    font-size: 80px;
+}
