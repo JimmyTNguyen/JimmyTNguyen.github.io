@@ -46,3 +46,15 @@ table {
     width: 25%;
     margin:auto;
 }
+#nav2 {
+    list-style-type: none;
+    margin: -8px;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+#nav2 li {
+    float: center;
+}
+#nav2 li a:hover {
+    background-color: cyan;
